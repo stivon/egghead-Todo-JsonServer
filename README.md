@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Build Your First Production Quality React App (Andy Van Slaars)
+Build Your First Production Quality React App (Andy Van Slaars)<br />
 URL EGGHEAD : https://egghead.io/courses/build-your-first-production-quality-react-app
 
 ## Available Scripts
