@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+.Todo-App {
+  padding-top: 0;
+  display: inline-block;
+  text-align: left;
+}
+
+input {
+  font-size: 20px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+li span.delete-item {
+  visibility: hidden;
+}
+
+span.delete-item a {
+  text-decoration: none;
+  color: red;
+}
+
+li:hover span.delete-item {
+  visibility: visible;
+}
+.error {
+  font-size: 14px;
+  color: red;
+}
+.success {
+  color: green;
+}
+.Footer a {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.Footer a.active {
+  font-weight: bold;
+}
